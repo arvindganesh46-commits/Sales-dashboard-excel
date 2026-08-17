@@ -27,5 +27,7 @@ Sales_dashboard_Excel.xlsx.xlsx - Excel workbook contaning the sales data and da
 Laptop generated the highest sales among the products.
 rahul was the highest-performing salesperson.
 the dashboard provide a quick overview of overall sales performance.
+## Dashboard Preview
+![Sales Dashboard](Sales-dashboard.png)
 ## Author
 Arvind Ganesh
